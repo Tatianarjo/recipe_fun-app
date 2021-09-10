@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+
+This app is to help you create recipes from just typing in your favorite food!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
